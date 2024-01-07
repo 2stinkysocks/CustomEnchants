@@ -1,0 +1,8 @@
+name: CustomEnchants
+version: '${project.version}'
+main: me.twostinkysocks.customenchants.CustomEnchants
+api-version: 1.19
+commands:
+  reloadcustomenchants:
+    usage: /reloadcustomenchants
+    permission: customenchants.reload
